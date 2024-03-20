@@ -1,5 +1,2 @@
 - **Link to the dashboard:https://www.novypro.com/project/cricket-data-analysis-**
-- In this project, we utilized T20 World Cup dataset, employing **Python and Pandas** to clean and transform the data.
-- Following data preparation, we conducted insightful data visualizations using **Power BI**, with a specific focus on extracting key insights related to top performers, power hitters, all-rounders, and best bowlers.
-- Our detailed report delved into their overall performance metrics, including strike rate, average, and economy, utilizing **DAX measures in Power BI** for a comprehensive analysis.
-- The aim was to provide a nuanced understanding of player performances throughout the T20 World Cup.
+In this project, we utilized T20 World Cup dataset, employing Python and Pandas to clean and transform the data. We then conducted insightful visualizations using Power BI.
